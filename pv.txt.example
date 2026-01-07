@@ -1,0 +1,9 @@
+# Example file with private keys
+# Delete this file and create pv.txt with your private keys
+# One key per line, with 0x prefix
+#
+# Example:
+# 0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+
+
+
