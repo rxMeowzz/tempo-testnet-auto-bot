@@ -235,7 +235,7 @@ MIT License
 
 ## 👤 Author
 
-Shadow
+rxMeowzz
 
 ---
 
